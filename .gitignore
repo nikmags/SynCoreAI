@@ -1,0 +1,15 @@
+# 🔐 API keys and secret config
+.env
+
+# ⚙️ Python cache
+__pycache__/
+*.py[cod]
+
+# 💻 Mac system files
+.DS_Store
+
+# 📦 Streamlit temporary files
+.streamlit/
+
+# 🚫 VS Code settings (optional)
+.vscode/
